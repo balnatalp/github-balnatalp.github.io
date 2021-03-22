@@ -1,0 +1,35 @@
+.fejlec {
+  background: purple;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+  width: 800px;
+}
+a {
+  height: 30px;
+  background: cyan;
+  align-items: center;
+  color: white;
+  display: inline-flex;
+  flex-direction: row; 
+  }
+a {
+  width: 80px;
+  margin: 10px;
+}
+#kozepso {
+  width: 120px;
+}
+main {
+  background-color: yellow;
+  flex-grow: 7;
+  }
+aside {
+  background-color: green;
+  flex-grow: 3;
+  }
+.contanier {
+  display: inline-flex;
+  height: 500px;
+  width: 800px;
+}

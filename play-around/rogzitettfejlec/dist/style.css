@@ -1,0 +1,49 @@
+.fejlec {
+  background: purple;
+  height: 70px;
+  margin: 0;
+  padding: 0;
+  width: 700px;
+  position: fixed;
+  top: 0;
+}
+a {
+  height: 30px;
+  background: cyan;
+  align-items: center;
+  color: white;
+  display: inline-flex;
+  flex-direction: row; 
+  }
+a {
+  width: 80px;
+  margin: 20px;
+}
+#kozepso {
+  width: 120px;
+}
+.green {
+  background-color: green;
+  flex-grow: 3;
+  }
+.yellow {
+  background-color: yellow;
+  flex-grow: 7;
+  }
+.lightgrey {
+  background-color: lightgrey;
+  height: 80px;
+  width: 500px;
+  display: inline-flex;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.contanier {
+  display: inline-flex;
+  height: 300px;
+  width: 500px;
+  margin-top: 70px;
+  margin-right: 100px;
+  margin-left: 100px;
+  justify-content: center;
+  }

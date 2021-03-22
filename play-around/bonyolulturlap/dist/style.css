@@ -1,0 +1,8 @@
+form {
+  margin: auto;
+  width: 600px;
+}
+
+legend.color#label {
+  color: red;
+}

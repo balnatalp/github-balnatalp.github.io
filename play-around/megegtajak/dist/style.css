@@ -1,0 +1,26 @@
+main {
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  font-family: font-family: 'Shippori Mincho B1', serif;
+}
+div {
+ border-color: #4285f4;
+ margin: 5px auto;
+ border-width: 10px;
+ border-style: solid;
+ width: 400px;
+  
+}
+
+.eszak {
+  background-color: #E67676;
+  padding: 40px;
+  margin: 0;
+}
+.kelet {
+  background-color: #A9E6E6;
+  padding: 40px;
+  margin: 0;
+}

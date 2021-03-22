@@ -1,0 +1,48 @@
+header {
+  display: flex;
+  background-color: aqua;
+  height: 70px;
+  width: 600px;
+  margin: auto;
+}
+.container { 
+ width: 600px;
+ height: 500px;
+ margin: auto;
+ display: flex;
+ position: relative;
+ 
+ }
+.orange {
+  weight: 200px;
+  background-color: orange;
+  flex-grow: 2;
+  
+}
+.red {
+  weight: 200px;
+  background-color: red;
+  flex-grow: 7;
+  margin: 0 20px;
+  
+ }
+.purple {
+  weight: 200px;
+  background-color: purple;
+  flex-grow: 2;
+  }
+#black {
+  width: 70px;
+  height: 70px;
+  background: black;
+  position: absolute;
+  bottom: 25px;
+  right: 150px;
+}
+footer {
+  display: flex;
+  background-color: blue;
+  height: 70px;
+  width: 600px;
+  margin: auto;
+}

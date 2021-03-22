@@ -1,0 +1,10 @@
+p {
+  background: #0D91A1;
+  color: #015668;
+  width: 100px;
+  height: 50px;
+  padding: 5px;
+  margin: 5px;
+  border: 5px solid #7DCE94;
+  font-family: 'Noto Sans JP', sans-serif;
+}

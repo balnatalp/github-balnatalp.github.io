@@ -1,0 +1,39 @@
+main {
+  margin: auto;
+  border: 10px;
+  border-color: #4285f4;
+  padding: 0;
+  border-style: solid;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  width: 400px;
+  font-family: font-family: 'Shippori Mincho B1', serif;
+}
+
+.eszak {
+  background-color: #E67676;
+  padding: 40px;
+  margin: 0;
+}
+.del {
+  background-color: #F2F062;
+  padding: 40px;
+  margin: 0;
+}
+.kelet {
+  background-color: #A9E6E6;
+  padding: 40px;
+  margin: 0;
+}
+.nyugat {
+  background-color: #7692E4;
+  padding: 40px;
+  margin: 0;
+}
+
+
+  
+
+
